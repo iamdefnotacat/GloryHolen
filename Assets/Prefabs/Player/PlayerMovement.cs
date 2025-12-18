@@ -4,10 +4,12 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 25f;
+    [SerializeField] private Camera playerCamera;
+    [SerializeField] private float cameraSmoothSpeed = 8f;
+    [SerializeField] private Vector3 cameraOffset = new Vector3(0, 0, -10);
 
     private Rigidbody2D rb;
     private Vector2 movement;
-
     private InputAction moveAction;
 
     void Awake()
@@ -36,6 +38,19 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+    }
+
+    void LateUpdate()
+    {
+        if (!playerCamera) return;
+
+        Vector3 targetPos = transform.position + cameraOffset;
+
+        playerCamera.transform.position = Vector3.Lerp(
+            playerCamera.transform.position,
+            targetPos,
+            cameraSmoothSpeed * Time.deltaTime
+        );
     }
 
     void OnDestroy()
