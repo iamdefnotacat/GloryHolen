@@ -1,0 +1,3 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Button text="" name="armor_button" enable-rich-text="true" style="height: 66px; width: 68px; background-image: url(&quot;project://database/Assets/Textures/Forest.png?fileID=6197192568713671372&amp;guid=87f57af35d3a0004e998c3ed5d1f678a&amp;type=3#Forest_4&quot;); transform-origin: center;"/>
+</ui:UXML>
