@@ -8,6 +8,9 @@ TextureImporter:
   - first:
       213: 1101770504183819589
     second: Forest_1
+  - first:
+      213: -3755448495774436313
+    second: Forest_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -146,6 +149,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Forest_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 889
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724f6158d77f1ebc0800000000000000
+      internalID: -3755448495774436313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -162,6 +187,7 @@ TextureImporter:
     nameFileIdTable:
       Forest_0: 9085546173938197295
       Forest_1: 1101770504183819589
+      Forest_2: -3755448495774436313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

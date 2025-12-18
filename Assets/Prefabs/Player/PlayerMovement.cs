@@ -11,10 +11,13 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 movement;
     private InputAction moveAction;
+    private CircleCollider2D playerRange;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        playerRange = GetComponent<CircleCollider2D>();
+        
 
         moveAction = new InputAction(
             type: InputActionType.Value,
