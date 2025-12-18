@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 movement;
     private InputAction moveAction;
-    private CircleCollider2D playerRange;
+    private CircleCollider2D playerRange; // i.e range for player to interact with other game objects.
 
     void Awake()
     {

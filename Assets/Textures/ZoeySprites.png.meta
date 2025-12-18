@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 0a7c7c5a661f6824b99384957db35199
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6087648565689900223
+    second: ZoeySprites_0
+  - first:
+      213: 7503697913488730690
+    second: ZoeySprites_1
+  - first:
+      213: -7167634077587923260
+    second: ZoeySprites_2
+  - first:
+      213: -3189592118527341012
+    second: ZoeySprites_3
+  - first:
+      213: -6552127775782840957
+    second: ZoeySprites_4
+  - first:
+      213: -5658641224754006630
+    second: ZoeySprites_5
+  - first:
+      213: -8632490635972215208
+    second: ZoeySprites_6
+  - first:
+      213: -4976908970191215925
+    second: ZoeySprites_7
+  - first:
+      213: -7394582384938797947
+    second: ZoeySprites_8
+  - first:
+      213: -937892868778210091
+    second: ZoeySprites_9
+  - first:
+      213: 3719837956274237848
+    second: ZoeySprites_10
+  - first:
+      213: -519457140354152219
+    second: ZoeySprites_11
+  - first:
+      213: 5617834545175012697
+    second: ZoeySprites_12
+  - first:
+      213: 3788997176586143206
+    second: ZoeySprites_13
+  - first:
+      213: -5548793918247982052
+    second: ZoeySprites_14
+  - first:
+      213: 6716832492320922578
+    second: ZoeySprites_15
+  - first:
+      213: 2521908052611738654
+    second: ZoeySprites_16
+  - first:
+      213: -6857681359656971339
+    second: ZoeySprites_17
+  - first:
+      213: 6877165160226702251
+    second: ZoeySprites_18
+  - first:
+      213: 7792211959279563625
+    second: ZoeySprites_19
+  - first:
+      213: -7778836298849448237
+    second: ZoeySprites_20
+  - first:
+      213: 5698131600863983674
+    second: ZoeySprites_21
+  - first:
+      213: -8894565821393945723
+    second: ZoeySprites_22
+  - first:
+      213: 5228627243760541820
+    second: ZoeySprites_23
+  - first:
+      213: 3643826880995487046
+    second: ZoeySprites_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZoeySprites_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcdc53ed1cab7450800000000000000
+      internalID: 6087648565689900223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ae55bfe7d722860800000000000000
+      internalID: 7503697913488730690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce136d38c2778c90800000000000000
+      internalID: -7167634077587923260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ecacc0eda4cb3d0800000000000000
+      internalID: -3189592118527341012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_4
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855e79a08a2215a0800000000000000
+      internalID: -6552127775782840957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_5
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95f72f69c77871b0800000000000000
+      internalID: -5658641224754006630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_6
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e7df3e08b333880800000000000000
+      internalID: -8632490635972215208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_7
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc22c4019a77eeab0800000000000000
+      internalID: -4976908970191215925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_8
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584bc53cf7a216990800000000000000
+      internalID: -7394582384938797947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_9
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc4a1fa76febf2f0800000000000000
+      internalID: -937892868778210091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_10
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 333
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891bdb5a9e48f9330800000000000000
+      internalID: 3719837956274237848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 173
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e88629ab748ac8f0800000000000000
+      internalID: -519457140354152219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 173
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955231811ce86fd40800000000000000
+      internalID: 5617834545175012697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 173
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5006d6bd8359430800000000000000
+      internalID: 3788997176586143206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_14
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 173
+        width: 176
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c2bf28459bef2b0800000000000000
+      internalID: -5548793918247982052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_15
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 173
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db1790809bf63d50800000000000000
+      internalID: 6716832492320922578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_16
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 173
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cae10230e9ff220800000000000000
+      internalID: 2521908052611738654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b314de032f94d0a0800000000000000
+      internalID: -6857681359656971339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 8
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba34105c649907f50800000000000000
+      internalID: 6877165160226702251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 9
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963b867fd7f732c60800000000000000
+      internalID: 7792211959279563625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0a29a9950c0490800000000000000
+      internalID: -7778836298849448237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 15
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38fce04084d31f40800000000000000
+      internalID: 5698131600863983674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 37
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bbb78c287209480800000000000000
+      internalID: -8894565821393945723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 36
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70e64796c0df8840800000000000000
+      internalID: 5228627243760541820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZoeySprites_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 28
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d61c01e39719230800000000000000
+      internalID: 3643826880995487046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ZoeySprites_0: 6087648565689900223
+      ZoeySprites_1: 7503697913488730690
+      ZoeySprites_10: 3719837956274237848
+      ZoeySprites_11: -519457140354152219
+      ZoeySprites_12: 5617834545175012697
+      ZoeySprites_13: 3788997176586143206
+      ZoeySprites_14: -5548793918247982052
+      ZoeySprites_15: 6716832492320922578
+      ZoeySprites_16: 2521908052611738654
+      ZoeySprites_17: -6857681359656971339
+      ZoeySprites_18: 6877165160226702251
+      ZoeySprites_19: 7792211959279563625
+      ZoeySprites_2: -7167634077587923260
+      ZoeySprites_20: -7778836298849448237
+      ZoeySprites_21: 5698131600863983674
+      ZoeySprites_22: -8894565821393945723
+      ZoeySprites_23: 5228627243760541820
+      ZoeySprites_24: 3643826880995487046
+      ZoeySprites_3: -3189592118527341012
+      ZoeySprites_4: -6552127775782840957
+      ZoeySprites_5: -5658641224754006630
+      ZoeySprites_6: -8632490635972215208
+      ZoeySprites_7: -4976908970191215925
+      ZoeySprites_8: -7394582384938797947
+      ZoeySprites_9: -937892868778210091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
